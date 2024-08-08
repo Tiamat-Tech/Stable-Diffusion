@@ -16,6 +16,18 @@ Discord : https://discord.com/servers/software-engineering-courses-secourses-772
 
 Your Patreon support is tremendously important for me so thank you so much
 
+### Patreon Sharings Index
+
+https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Patreon-Posts-Index.md
+
+### Amazing Generative AI Scripts
+
+https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Amazing-Generative-AI-Scripts.md
+
+### Generative AI Updates & News
+
+https://github.com/FurkanGozukara/Stable-Diffusion/blob/main/Generative-AI-Updates-And-News.md
+
 ## Important Public Sharings
 
 ### July 19 - 2024
@@ -28,6 +40,10 @@ Your Patreon support is tremendously important for me so thank you so much
 * If you are new to Stable Diffusion and want to learn easily to train it with very best possible results, this article is prepared for this purpose with everything you need.
 
 ## Patreon Exclusive Content 
+
+### August 6 - 2024
+[Virtual Try-on (IDM-VTON) 1 Click Installers - Try Any Clothing Immediately On Anyone](https://www.patreon.com/posts/86438018)
+* 1 Click installers (Windows, RunPod, Massed Compute, Linux, Kaggle Notebook) for IDM-VTON (Improving Diffusion Models for Authentic Virtual Try-on in the Wild). Click to install and start using
 
 ### August 3 - 2024
 [SwarmUI Master Tutorial - Use Stable Diffusion 3 (SD3) and FLUX model with Amazing Performance](https://www.patreon.com/posts/106135985)
@@ -108,10 +124,6 @@ Your Patreon support is tremendously important for me so thank you so much
 ### May 27 - 2024
 [IP-Adapter-FaceID-PlusV2 - 0 Shot Face Transfer - Auto Installer & Gradio App](https://www.patreon.com/posts/ip-adapter-0-app-95759342)
 * 1 Click Auto Install IP-Adapter-FaceID-PlusV2. Use it with an advanced standalone Gradio app. 0 Shot face transfer and generate images. 
-
-### May 27 - 2024
-[Virtual Try-on (IDM-VTON) 1 Click Installers - Try Any Clothing Immediately On Anyone](https://www.patreon.com/posts/86438018)
-* 1 Click installers (Windows, RunPod, Massed Compute, Linux, Kaggle Notebook) for IDM-VTON (Improving Diffusion Models for Authentic Virtual Try-on in the Wild). Click to install and start using
 
 ### May 25 - 2024
 [Run Automatic1111 SD Web UI On A Free Kaggle NoteBook Like In Your PC - Supports SDXL & ControlNet](https://www.patreon.com/posts/run-on-free-like-88714330)
